@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anithabonthu/Leetcode-/tree/master/0001-two-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anithabonthu/Leetcode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Anithabonthu/Leetcode-/tree/master/2690-house-robber-iv) |
 ## Binary Search
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anithabonthu/Leetcode-/tree/master/0001-two-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anithabonthu/Leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
