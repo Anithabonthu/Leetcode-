@@ -18,16 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Anithabonthu/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anithabonthu/Leetcode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anithabonthu/Leetcode-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Anithabonthu/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/Anithabonthu/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anithabonthu/Leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Anithabonthu/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anithabonthu/Leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -37,4 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anithabonthu/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/Anithabonthu/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Anithabonthu/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Anithabonthu/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
