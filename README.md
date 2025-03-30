@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anithabonthu/Leetcode-/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Anithabonthu/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anithabonthu/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anithabonthu/Leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anithabonthu/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anithabonthu/Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anithabonthu/Leetcode-/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Anithabonthu/Leetcode-/tree/master/0268-missing-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anithabonthu/Leetcode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Anithabonthu/Leetcode-/tree/master/2690-house-robber-iv) |
 ## Counting
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anithabonthu/Leetcode-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Anithabonthu/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anithabonthu/Leetcode-/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Anithabonthu/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anithabonthu/Leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Anithabonthu/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anithabonthu/Leetcode-/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Anithabonthu/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -61,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Anithabonthu/Leetcode-/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anithabonthu/Leetcode-/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anithabonthu/Leetcode-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
