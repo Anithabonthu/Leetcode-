@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anithabonthu/Leetcode-/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anithabonthu/Leetcode-/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/Anithabonthu/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anithabonthu/Leetcode-/tree/master/0283-move-zeroes) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anithabonthu/Leetcode-/tree/master/0035-search-insert-position) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anithabonthu/Leetcode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Anithabonthu/Leetcode-/tree/master/2690-house-robber-iv) |
