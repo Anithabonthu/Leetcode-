@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anithabonthu/Leetcode-/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anithabonthu/Leetcode-/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Anithabonthu/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Anithabonthu/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anithabonthu/Leetcode-/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anithabonthu/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Anithabonthu/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Anithabonthu/Leetcode-/tree/master/0268-missing-number) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anithabonthu/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Anithabonthu/Leetcode-/tree/master/0283-move-zeroes) |
 ## Math
