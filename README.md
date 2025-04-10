@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anithabonthu/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Anithabonthu/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anithabonthu/Leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anithabonthu/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anithabonthu/Leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
