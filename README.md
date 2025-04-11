@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anithabonthu/Leetcode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anithabonthu/Leetcode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Anithabonthu/Leetcode-/tree/master/2690-house-robber-iv) |
+| [2737-row-with-maximum-ones](https://github.com/Anithabonthu/Leetcode-/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Anithabonthu/Leetcode-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Anithabonthu/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [2737-row-with-maximum-ones](https://github.com/Anithabonthu/Leetcode-/tree/master/2737-row-with-maximum-ones) |
 ## Prefix Sum
 |  |
 | ------- |
