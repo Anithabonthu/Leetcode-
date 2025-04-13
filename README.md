@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Anithabonthu/Leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anithabonthu/Leetcode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anithabonthu/Leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Anithabonthu/Leetcode-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Anithabonthu/Leetcode-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anithabonthu/Leetcode-/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
