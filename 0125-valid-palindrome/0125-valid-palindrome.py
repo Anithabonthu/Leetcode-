@@ -3,7 +3,7 @@ class Solution:
         s=s.lower()
         s1=""
         for i in s:
-            if i.isalnum():
+            if i.isalpha():
                 s1=s1+i
         if s1==s1[::-1]:
             return True
