@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anithabonthu/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Anithabonthu/Leetcode-/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Anithabonthu/Leetcode-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Anithabonthu/Leetcode-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1646-kth-missing-positive-number](https://github.com/Anithabonthu/Leetcode-/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anithabonthu/Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anithabonthu/Leetcode-/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anithabonthu/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Anithabonthu/Leetcode-/tree/master/0792-binary-search) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Anithabonthu/Leetcode-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Anithabonthu/Leetcode-/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anithabonthu/Leetcode-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Anithabonthu/Leetcode-/tree/master/2690-house-robber-iv) |
